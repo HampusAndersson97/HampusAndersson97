@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology and Music
 - 🌱 I’m currently learning Software Development, C#, Python, Javascript, JAVA and AI/ChatGPT4
 - 💞️ I’m looking to collaborate on practice on your company in May.
-- 📫 How to reach me AnderssonHampus97@gmail.com
+- 📫 How to reach me Mail: AnderssonHampus97@gmail.com or SMS: 0793324919
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I got 128 on an official Mensa IQ test
 
