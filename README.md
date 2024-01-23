@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HampusAndersson97
 - 👀 I’m interested in Technology and Music
-- 🌱 I’m currently learning Software Development, C#, Python, Javascript, JAVA and AI/ChatGPT4
+- 🌱 I’m currently learning Software Development, C#, Python, JavaScript, Java and AI/ChatGPT4
 - 💞️ I’m looking to collaborate on practice on your company in May.
 - 📫 How to reach me Mail: AnderssonHampus97@gmail.com or SMS: 0793324919
 - 😄 Pronouns: He/him
